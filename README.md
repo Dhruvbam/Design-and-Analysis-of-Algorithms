@@ -1,5 +1,5 @@
 # Design and Analysis of Algorithms
-![image](https://github.com/Dhruvbam/Expense-Tracker/blob/main/Images/ss.png)
+![image](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Images/DAA.jpg)
 
 ## About
 This repository contains three major projects completed as part of the **CS3364: Design and Analysis of Algorithms** course at Texas Tech University. These projects focus on implementing and analyzing various algorithms to solve complex real-world problems efficiently.
