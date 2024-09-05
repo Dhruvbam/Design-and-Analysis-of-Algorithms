@@ -15,11 +15,11 @@ This repository contains the following projects:
 
 2. **Project 2: Course Scheduling Using Topological Sorting**
     - This project focuses on using Depth-First Search (DFS) for topological sorting to determine the optimal order in which a student should complete courses based on prerequisites.
-    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/CS-Course-Sequence-Analyzer-main/README.md)
+    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/CS-Course-Sequence-Analyzer-main)
 
 3. **Project 3: Shortest Path Finder**
     - The third project implements the Bellman-Ford and Dijkstra algorithms to calculate the shortest path between different buildings on a university campus, considering both positive and negative edge weights.
-    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Shortest-Path-Algorithm-Analysis-main/README.md)
+    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Shortest-Path-Algorithm-Analysis-main)
 
 ## Built With
 This repository primarily utilizes the following technologies:
