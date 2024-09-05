@@ -11,7 +11,7 @@ This repository contains the following projects:
 
 1. **Project 1: Evaluating Search Engine Reliability through Sorting Algorithms**
     - In this project, sorting algorithms (Merge Sort, Quick Sort, Insertion Sort) are applied to assess the reliability of search engines by analyzing inversion counts in the ranking of web pages. 
-    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Search-Engine_Reliability_Analysis-main/README.md)
+    - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Search-Engine_Reliability_Analysis-main)
 
 2. **Project 2: Course Scheduling Using Topological Sorting**
     - This project focuses on using Depth-First Search (DFS) for topological sorting to determine the optimal order in which a student should complete courses based on prerequisites.
