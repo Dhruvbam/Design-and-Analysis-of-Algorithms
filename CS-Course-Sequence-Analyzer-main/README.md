@@ -1,5 +1,5 @@
 # Project 2: Course Scheduling Using Topological Sorting
-![Alt text](https://github.com/Dhruvbam/CS-Course-Sequence-Analyzer/blob/main/img.png)
+![Alt text](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/CS-Course-Sequence-Analyzer-main/img.png)
 
 ## About
 This project was developed for the Design and Analysis of Algorithms (CS 3364) class at Texas Tech University. The objective of this project is to implement a topological sorting algorithm using Depth-First Search (DFS) to determine the optimal order for completing courses in a Computer Science undergraduate program. The project tackles the challenge of sequencing courses based on their prerequisites.
