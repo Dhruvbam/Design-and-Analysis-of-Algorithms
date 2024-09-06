@@ -35,8 +35,12 @@ This repository primarily utilizes the following technologies:
 3. Follow the specific instructions in the `README.md` file within each project folder to execute the code.
 
 ## Learning Outcomes
-Through these projects, we gained hands-on experience in:
-- Analyzing and implementing complex algorithms.
-- Comparing different sorting algorithms based on efficiency and accuracy.
-- Applying graph traversal techniques such as DFS for practical scheduling problems.
-- Implementing shortest path algorithms for real-world applications.
+Through these projects, I gained valuable experience in algorithm design and analysis:
+
+- **Algorithm Analysis & Implementation**: Developed skills in analyzing and implementing complex algorithms, improving my ability to evaluate and optimize their efficiency.
+- **Sorting Algorithm Comparison**: Compared sorting algorithms based on their efficiency and accuracy, gaining insights into their practical applications in various scenarios.
+- **Graph Traversal Techniques**: Applied graph traversal techniques like **Depth-First Search (DFS)** to solve practical scheduling problems and optimize task execution.
+- **Shortest Path Algorithms**: Implemented shortest path algorithms such as **Dijkstra** and **Bellman-Ford**, applying them to real-world scenarios that require efficient pathfinding solutions.
+
+These projects strengthened my ability to design and apply advanced algorithms to solve complex computational problems.
+
