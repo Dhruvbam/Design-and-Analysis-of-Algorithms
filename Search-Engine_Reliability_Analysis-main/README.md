@@ -1,5 +1,5 @@
 # Project 1: Evaluating Search Engine Reliability through Sorting Algorithms
-![Image](https://github.com/Dhruvbam/Search-Engine_Reliability_Analysis/blob/main/img.png)
+![Image](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Search-Engine_Reliability_Analysis-main/img.png)
 
 
 ## About
