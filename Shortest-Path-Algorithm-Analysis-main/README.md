@@ -1,5 +1,5 @@
 # Project 3: Shortest Path Finder Using Dijkstra and Bellman-Ford Algorithms
-![alt text](https://github.com/Dhruvbam/Shortest-Path-Finder/blob/main/sp1.png)
+![alt text](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Shortest-Path-Algorithm-Analysis-main/sp1.png)
 
 
 ## About
