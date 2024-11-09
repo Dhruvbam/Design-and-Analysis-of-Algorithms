@@ -10,7 +10,7 @@ Each project demonstrates a different algorithmic approach, including sorting al
 This repository contains the following projects:
 
 1. **Project 1: Evaluating Search Engine Reliability through Sorting Algorithms**
-    - In this project, sorting algorithms (Merge Sort, Quick Sort, Insertion Sort) are applied to assess the reliability of search engines by analyzing inversion counts in the ranking of web pages.
+    - This project focuses sorting algorithms, Merge Sort, Quick Sort and Insertion Sort are applied to assess the reliability of search engines by analyzing inversion counts in the ranking of web pages.
     - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%201%20-%20Search%20Engine%20Reliability)
 
 2. **Project 2: Course Scheduling Using Topological Sorting**
@@ -18,7 +18,7 @@ This repository contains the following projects:
     - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%202%20-%20Course%20Sequencer)
 
 3. **Project 3: Shortest Path Finder**
-    - The third project implements the Bellman-Ford and Dijkstra algorithms to calculate the shortest path between different buildings on a university campus, considering both positive and negative edge weights.
+    - The project implements the Bellman-Ford and Dijkstra algorithms to calculate the shortest path between different buildings on a university campus, considering both positive and negative edge weights.
     - [Read More](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%203%20-%20Shortest%20Path%20Finder)
 
 
@@ -36,12 +36,14 @@ This repository primarily utilizes the following technologies:
 3. Follow the specific instructions in the `README.md` file within each project folder to execute the code.
 
 ## Learning Outcomes
-Through these projects, I gained valuable experience in algorithm design and analysis:
+These projects provided hands-on experience in algorithm design, analysis, and implementation:
 
-- **Algorithm Analysis & Implementation**: Developed skills in analyzing and implementing complex algorithms, improving my ability to evaluate and optimize their efficiency.
-- **Sorting Algorithm Comparison**: Compared sorting algorithms based on their efficiency and accuracy, gaining insights into their practical applications in various scenarios.
-- **Graph Traversal Techniques**: Applied graph traversal techniques like **Depth-First Search (DFS)** to solve practical scheduling problems and optimize task execution.
-- **Shortest Path Algorithms**: Implemented shortest path algorithms such as **Dijkstra** and **Bellman-Ford**, applying them to real-world scenarios that require efficient pathfinding solutions.
+- **Algorithm Optimization and Complexity Analysis**: Gained an in-depth understanding of analyzing algorithmic efficiency, comparing time complexities, and selecting optimal solutions for different problem types.
+- **Sorting Algorithms**: Enhanced knowledge of sorting algorithms Merge Sort, Quick Sort and Insertion Sort and their applications, particularly in ranking and reliability analysis.
+- **Graph Traversal and Topological Sorting**: Applied **Depth-First Search (DFS)** for topological sorting, learning to solve dependency and scheduling problems effectively.
+- **Shortest Path Algorithms**: Implemented **Dijkstra’s** and **Bellman-Ford** algorithms for shortest path calculations, mastering techniques in graph-based problem-solving, including handling negative weights.
+- **Real-World Problem Solving**: Developed skills in applying theoretical algorithmic concepts to practical scenarios, reinforcing the importance of robust, efficient solutions in software engineering.
 
-These projects strengthened my ability to design and apply advanced algorithms to solve complex computational problems.
+These projects collectively strengthened my ability to design, implement, and evaluate advanced algorithms, preparing me to tackle complex computational challenges.
+
 
