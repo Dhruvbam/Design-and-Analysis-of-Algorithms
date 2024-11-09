@@ -47,9 +47,7 @@ To run the project locally:
 3. **DFS Algorithm**: The DFS algorithm traverses the graph, assigning pre-visit and post-visit numbers to courses.
 4. **Topological Sorting**: Courses are sorted by their post-visit numbers in descending order to generate the correct sequence.
 
-## Example Output
-After running the program, the sorted course sequence will be displayed based on the prerequisites, ensuring that no course is taken before its prerequisites.
 
-## Conclusion and Future Work
+## Conclusion 
 The project successfully outputs the correct sequence of courses based on prerequisites using topological sorting. Future improvements could include graphical visualizations of the course sequence or optimizing the algorithm for larger datasets.
 
