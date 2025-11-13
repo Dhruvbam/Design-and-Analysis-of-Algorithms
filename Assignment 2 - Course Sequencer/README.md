@@ -1,6 +1,6 @@
 # Project 2: Course Sequencer
 <p align="center">
-<img src="[https://github.com/Dhruvbam/AlgoWhiz/blob/main/Images/algowhiz.gif](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%202%20-%20Course%20Sequencer/csm.gif)">
+<img src="https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%202%20-%20Course%20Sequencer/csm.gif">
 </p>
 
 Course Sequencer is a Python based application developed for the Design and Analysis of Algorithms course to efficiently solve course scheduling for computer science undergraduates. By parsing raw curriculum data and modeling courses and prerequisites as nodes and directed edges within a directed acyclic graph (DAG), Course Sequencer employs Depth-First Search (DFS) and topological sorting to generate an optimal order for course completion. This minimizes scheduling conflicts and streamlines academic planning, ensuring all prerequisite constraints are met. The project showcases advanced skills in graph theory, algorithm design, and the practical application of computer science concepts to curriculum planning and real-world problems.
