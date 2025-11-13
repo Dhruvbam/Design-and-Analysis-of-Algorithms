@@ -1,7 +1,7 @@
 # Project 1: Search Engine Analysis
 ![Image](https://github.com/Dhruvbam/Design-and-Analysis-of-Algorithms/blob/main/Assignment%201%20-%20Search%20Engine%20Reliability/img.png)
 
-Search Engine Analyzer is a Python-based project developed for the Design and Analysis of Algorithms course, focused on rigorously benchmarking the accuracy and consistency of web page rankings from three different search engines. By analyzing 10,000 web pages sourced from five datasets, this tool leverages Merge Sort, Quick Sort, and Insertion Sort to quantify ranking integrity through inversion counting—a robust metric for measuring ranking consistency. The analyzer identifies the most reliable search engine, presents comparative metrics, and demonstrates the power of algorithm-driven assessments to solve real-world data engineering challenges.
+Search Engine Analyzer is a Python based project developed for the Design and Analysis of Algorithms course, focused on rigorously benchmarking the accuracy and consistency of web page rankings from three different search engines. By analyzing 10,000 web pages sourced from five datasets, this tool leverages Merge Sort, Quick Sort, and Insertion Sort to quantify ranking integrity through inversion counting, a robust metric for measuring ranking consistency. The analyzer identifies the most reliable search engine, presents comparative metrics, that highlights large scale data processing, and practical benchmarking while demonstrating the power of algorithm driven assessments to solve real world data engineering challenges.
 
 ## Features & Technical Details
 
