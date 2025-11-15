@@ -5,7 +5,7 @@ Shortest Path Finder is a Python-powered solution developed for the Design and A
 
 ## Features & Technical Details
 
-- **Dual Algorithm Engine:** Implements Dijkstra’s (O(E + V log V)) for fast shortest path computation with non-negative weights and Bellman-Ford (\(O(VE)\)) for graphs with negative edge weights.
+- **Dual Algorithm Engine:** Implements Dijkstra’s O(E + V log V) for fast shortest path computation with non-negative weights and Bellman-Ford O(VE) for graphs with negative edge weights.
 - **Graph Modeling:** Represents buildings as nodes and routes as weighted edges, adapting dynamically to data changes.
 - **Cycle Detection:** Bellman-Ford implementation includes negative cycle detection to ensure path validity.
 - **Extensible Architecture:** Easily adapts to new maps or data modifications without core algorithm changes.
