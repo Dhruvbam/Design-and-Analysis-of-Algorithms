@@ -9,7 +9,7 @@ Course Sequencer is a Python based application developed for the Design and Anal
 ## Features & Technical Details
 
 - **Graph-Based Prerequisite Modeling:** Reads and parses a real course prerequisite dataset and creates a directed graph mapping dependencies between courses.
-- **DFS Topological Sort:** Implements a linear-time (\(O(V+E)\)) DFS algorithm to assign pre-visit and post-visit numbers, producing a valid topological ordering.
+- **DFS Topological Sort:** Implements a linear-time O(V + E) DFS algorithm to assign pre-visit and post-visit numbers, producing a valid topological ordering.
 - **Automated Course Ordering:** Outputs the correct sequence for all courses, such that no course appears before any of its required prerequisites.
 - **Error Handling:** Handles data inconsistencies, such as missing or misformatted prerequisites, to ensure robust performance on real-world data.
 - **Modular and Readable Implementation:** Well-structured Python code separates data parsing, graph construction, and topological sorting for clarity and extensibility.
