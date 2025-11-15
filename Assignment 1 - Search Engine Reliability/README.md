@@ -5,7 +5,7 @@ Search Engine Analyzer is a Python based project developed for the Design and An
 
 ## Features & Technical Details
 
-- **Algorithmic Inversion Counting:** Benchmarks ranking lists using Merge Sort (\(O(n \log n)\)), Quick Sort, and Insertion Sort (\(O(n^2)\)) adapted for inversion-count analysis.
+- **Algorithmic Inversion Counting:** Benchmarks ranking lists using Merge Sort O(n log n), Quick Sort, and Insertion Sort O(n^2) adapted for inversion-count analysis.
 - **Large Data Handling:** Processes and validates rankings for 10,000 web pages across five source files.
 - **Quantitative Evaluation:** Identifies the most reliable search engine by comparing inversion counts—lower values indicate greater ranking consistency.
 - **Automated Data Rearrangement:** Rearranges source ranking data to match consolidated combined rankings for precise comparative analysis.
